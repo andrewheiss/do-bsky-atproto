@@ -1,5 +1,7 @@
 # do-bsky-atproto Goodreads example
 
+*(This is meant as an example of how to autopost web embeds to Bluesky with a Digital Ocean function; it's not a publicly accessible function. Make your own with this example code.)*
+
 ## What this does
 
 For years, [Goodreads](https://www.goodreads.com/) was able to connect to Twitter and autopost about books that you recorded there (but with the destruction of Twitter's APIs, this has stopped working).
