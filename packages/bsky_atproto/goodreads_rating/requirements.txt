@@ -1,0 +1,3 @@
+atproto==0.0.49
+beautifulsoup4==4.12.3
+httpx==0.26.0

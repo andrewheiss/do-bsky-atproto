@@ -1,0 +1,10 @@
+packages:
+  - name: bsky_atproto
+    environment:
+      BSKY_USER: ${BSKY_USER}
+      BSKY_PASSWORD: ${BSKY_PASSWORD}
+    functions:
+      - name: goodreads_rating
+        runtime: python:3.11
+        web: true
+        webSecure: ${WHISK}
